@@ -85,18 +85,18 @@ Your BMI is: 21.22
    python "BMI Calculator.py"
 
 🧠 **Concepts Covered**
-Basic Input and Output (input(), print())
-Conditional Statements (if, elif, else)
-Arithmetic Operators
-Type Conversion (int(), float())
-Simple Error Handling
-User Interaction through Command Line
+- Basic Input and Output (input(), print())
+- Conditional Statements (if, elif, else)
+- Arithmetic Operators
+- Type Conversion (int(), float())
+- Simple Error Handling
+- User Interaction through Command Line
 
 🚀 **Future Enhancements**
-Add input validation and error messages
-Introduce GUI using Tkinter for all tools
-Combine all utilities into one interactive menu-based app
-Save results (grades, BMI, calculations) to a text or CSV file
+- Add input validation and error messages
+- Introduce GUI using Tkinter for all tools
+- Combine all utilities into one interactive menu-based app
+- Save results (grades, BMI, calculations) to a text or CSV file
 
 👨‍💻 **Author**
 Mohit Sharma
