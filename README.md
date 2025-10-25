@@ -74,7 +74,7 @@ Your BMI is: 21.22
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/<your-username>/python-mini-projects.git
+   git clone [https://github.com/mohit20195/Python-Mini-Projects]
    
 2. **Navigate into the project folder**
     cd python-mini-projects
